@@ -50,3 +50,13 @@ Try the live analyzer here:
 
 ```lua
 player.leaderstats.Coins.Value = amount
+
+---
+
+## 📸 Screenshots
+
+### Analyzer Interface
+![Analyzer Interface](screenshots/analyzer-home.png)
+
+### Example Scan Result
+![Scan Result](screenshots/scan-result.png)
