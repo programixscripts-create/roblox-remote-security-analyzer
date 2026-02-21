@@ -48,9 +48,6 @@ Try the live analyzer here:
 
 ## 📸 Screenshots
 
-### Analyzer Interface
-![Analyzer Interface](screenshots/analyzer-home.png)
-
 ### Example Scan Result
 ![Scan Result](screenshots/scan-result.png)
 
