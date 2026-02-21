@@ -49,7 +49,7 @@ Try the live analyzer here:
 ## 📸 Screenshots
 
 ### Example Scan Result
-![Scan Result](screenshots/scan-result.png)
+!(screenshots/scan-result.png)
 
 ---
 
