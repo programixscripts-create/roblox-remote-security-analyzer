@@ -46,13 +46,6 @@ Try the live analyzer here:
 
 ---
 
-## 🧠 Example Issue
-
-```lua
-player.leaderstats.Coins.Value = amount
-
----
-
 ## 📸 Screenshots
 
 ### Analyzer Interface
@@ -60,3 +53,10 @@ player.leaderstats.Coins.Value = amount
 
 ### Example Scan Result
 ![Scan Result](screenshots/scan-result.png)
+
+---
+
+## 🧠 Example Issue
+
+```lua
+player.leaderstats.Coins.Value = amount
