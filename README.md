@@ -44,6 +44,7 @@ Try the live analyzer here:
 
 🔗 https://roblox-security-analyzer--programixscript.replit.app/
 
+Also Join The Discord! https://discord.gg/b6njy7yb
 ---
 
 ## 📸 Screenshots
